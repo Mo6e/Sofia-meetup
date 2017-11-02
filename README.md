@@ -3,7 +3,7 @@ Please edit however you feel like is better.
 
 The scalability debate is ongoing for years. Indeed, the Bitcoin network needs to scale. However, scaling should not compromise on security and decentralization as these are some of the intrinsic properties of Bitcoin. 
 
-The Bulgarian Bitcoin community represented by holders, developers, traders, businesses (hash.bg, crypto.bg, bithope, cix etc.) stands for the core ideas of Bitcoin and opposes the unnecessary risk represented by the SegWit2X proposition.
+The Bulgarian Bitcoin community represented by holders, developers, traders, businesses stands for the core ideas of Bitcoin and opposes the unnecessary risk represented by the SegWit2X proposition.
 
 We believe that appropriate measures tackling the scaling issue have already been deployed when BIP 91 was activated. More time is necessary to feel and understand the possibilities of SegWit and the upcoming second layer solutions. We see more blocks being mined above 1MB and even witnessed the first 1.5MB block. Unnecessary rush for a hard fork holds no benefits for the whole ecosystem and only suggests that there is an incentive for a few organizations to orchestrate a political terrorism on the Bitcoin Network.
 
